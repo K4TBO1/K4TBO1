@@ -1,5 +1,5 @@
 Contact - | K4TBO1#8106 | k4tbo1@hrzn.email <br>
 Programming languages I know - PYTHON!!1!!1! <br>
 Languages I'm currently learning/Want to learn - Lua, Rust, Kotlin and probably more <br>
-<img align="left" width="444" height="640" src="oh-the-misery-eggcat.gif">
-<img align="right" width="444" height="640" src="everybody-wants.gif">
+![OHH THE MISERY](oh-the-misery-eggcat.gif) <br>
+![EVERYBODY WANTS TO BE MY ENEMY](everybody-wants.gif) <br>
